@@ -157,7 +157,8 @@ int main() {
 ```
 
 ## OUTPUT:
-![image](https://github.com/user-attachments/assets/090545b4-bfd2-41fb-87c8-df31098fb684)
+![image](https://github.com/user-attachments/assets/7762467e-1359-445c-9cde-81da44129836)
+
 
 ## RESULT:
   Thus the Playfair cipher substitution technique had been implemented successfully.
